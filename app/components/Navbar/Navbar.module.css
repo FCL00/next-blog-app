@@ -1,0 +1,15 @@
+.header{
+    @apply px-5 py-3 bg-white shadow-sm;
+}
+
+.navbar{
+    @apply flex justify-between items-center;
+}
+
+.nav-links{
+    @apply text-black flex space-x-1; 
+}
+
+.nav-logo{
+    @apply text-2xl font-bold text-black;
+}
